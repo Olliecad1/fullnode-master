@@ -1,0 +1,1 @@
+Hey it’s Chris! You need to fork Fullnode project first then reload your desktop client and click File>Clone then search for Fullnode. It will then clone the project from my repo on to your computer and you can commit your changes and send in a Pull Request :)
